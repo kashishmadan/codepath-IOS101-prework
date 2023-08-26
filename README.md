@@ -10,27 +10,34 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![prework-kashish](https://github.com/kashishmadan/codepath-IOS101-prework/assets/40457149/b5e58181-d0e5-4493-9bf8-7e518db83849)
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with Mac Screen Recorder
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+My favourite apps
+1. LinkedIn
+    - Reactions when liking a post
+    - Schedule a call with someone from the chat box directly
+2. Instagram
+    - Stories expire in 24 hours
+    - Creating and editing reels
+3. Zomato
+    - Live Activities in iOS lock screen
+    - Dining vs Delivery navigation and ease of use
+
+App Idea: I would like to work on an app that helps ease collaboration between friends and classmates. Note sharing, discussions, study groups, study meetups, are some of the features I hope to add to the application.
+
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+No challenges as such! Instructions were pretty clear.
 
 ## License
 
